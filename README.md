@@ -7,7 +7,7 @@ I enjoy designing efficient, user-focused applications and exploring how ML and 
 
 ### 🔧 Technologies & Tools
 
-**Languages:** Java · Python · HTML · CSS · JavaScript · SQL · C++
+**Languages:** Java · Python · HTML · CSS · JavaScript · SQL · C++  
 **Frameworks & Tools:** Git · Gradle · Docker · MySQL · VS Code · IntelliJ IDEA · Eclipse
 
 ---
