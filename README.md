@@ -14,9 +14,9 @@ I enjoy designing efficient, user-focused applications and exploring how ML and 
 
 ### 💡 Interests
 
-💻 **Software Engineering:** Writing reliable, maintainable code and learning about scalable software design.  (I love debugging!)  
-🧠 **Artificial Intelligence:** Exploring machine learning concepts and integrating AI-driven features into applications.
-🎨 **Front-End Development:** Creating interactive and user-friendly web interfaces with modern web technologies and clean design.
+💻 **Software Engineering:** Writing reliable, maintainable code and learning about scalable software design. (I love debugging!)  
+🧠 **Artificial Intelligence:** Exploring machine learning concepts and integrating AI-driven features into applications.  
+🎨 **Front-End Development:** Creating interactive and user-friendly web interfaces with modern web technologies and clean design.  
 
 ---
 
