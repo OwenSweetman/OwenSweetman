@@ -23,7 +23,7 @@ I’m passionate about building clean, intuitive interfaces and scalable web app
 ### 💼 Experience
 
 **Northeastern University** | Student Projects & Coursework  
-Concentration: Human-Centered Computing
+Concentration: Human-Centered Computing  
 • Completed multiple projects in **Java**, **Python**, and **C++**, focusing on algorithm efficiency, data structures, and object-oriented design.  
 • Applied Human-Centered Computing principles through coursework in user research, interface design, and usability evaluation to build accessible and intuitive interactive systems.  
 • Built a small-scale **full-stack data application** from scratch using **MySQL**, **Flask**, and **Streamlit**.  
